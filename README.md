@@ -25,7 +25,8 @@ src="https://img.shields.io/github/followers/SaltedFishy03?logo=github&style=for
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" />
-
+<img src="https://img.icons8.com/?size=512&id=UFF3hmipmJ2V&format=png" width="36" height="36" alt=".NET" />
+  
 </p>
 
 ### Socials
@@ -34,7 +35,7 @@ src="https://img.shields.io/github/followers/SaltedFishy03?logo=github&style=for
   <a href="https://discord.com/users/SaltedFishy#9442" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
   <a href="https://www.github.com/SaltedFishy03" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mathias-hansen-564172249/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   </p>
-### Badges
+
 
 <b>My GitHub Stats</b>
 
