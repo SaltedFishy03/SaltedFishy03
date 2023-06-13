@@ -37,8 +37,6 @@ src="https://img.shields.io/github/followers/SaltedFishy03?logo=github&style=for
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/SaltedFishy03"><img src="https://github-readme-stats.vercel.app/api?username=SaltedFishy03&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=ef4444&bg_color=0f172a&hide_border=true&show_icons=true" alt="SaltedFishy03's GitHub stats" /></a>
-
 <a href="https://github.com/SaltedFishy03" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaltedFishy03&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
